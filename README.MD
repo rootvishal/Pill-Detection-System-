@@ -108,6 +108,8 @@ Open your web browser and navigate to `http://127.0.0.1:5000/` (or the address d
 3. **Upload a pill image:**
 Use the provided interface to upload an image of a pill for identification. The system will process the image and display relevant drug information and side effects.
 
+## Project Structure
+
 
 .
 ├── flask-app/
