@@ -71,14 +71,12 @@ python -m venv venv
 
   ```
   .\venv\Scripts\activate
-  
   ```
 
 * **On macOS/Linux:**
 
   ```
   source venv/bin/activate
-  
   ```
 
 5. **Install the required Python packages:**
